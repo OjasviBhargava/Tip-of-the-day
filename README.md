@@ -47,3 +47,8 @@ at the command line.
 ## GitHub Pages(21-03-2018)
 
 GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.
+
+
+## Follow a Friend(22-03-2018)
+
+One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with. When you follow someone, you’ll get notifications about their GitHub activity. Following friends helps you find new projects and new people that you may share interests with.

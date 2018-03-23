@@ -52,3 +52,8 @@ GitHub Pages are public webpages hosted and easily published through GitHub. The
 ## Follow a Friend(22-03-2018)
 
 One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with. When you follow someone, you’ll get notifications about their GitHub activity. Following friends helps you find new projects and new people that you may share interests with.
+
+
+## Git Reflog(23-03-2018)
+
+Git reflog allows you to see every step you have made with git allowing you to retract and reinstate your steps. Use `git reflog`

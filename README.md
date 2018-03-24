@@ -57,3 +57,8 @@ One of the great features on GitHub is the ability to see what other people are 
 ## Git Reflog(23-03-2018)
 
 Git reflog allows you to see every step you have made with git allowing you to retract and reinstate your steps. Use `git reflog`
+
+
+## Quick!! I need my pic(24-03-2018)
+
+If you ever need quick access to your profile picture, you can access it at github.com/[profilename].png

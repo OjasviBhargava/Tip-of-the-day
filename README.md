@@ -62,3 +62,8 @@ Git reflog allows you to see every step you have made with git allowing you to r
 ## Quick!! I need my pic(24-03-2018)
 
 If you ever need quick access to your profile picture, you can access it at github.com/[profilename].png
+
+
+## Watch Projects(25-03-2018)
+
+When you fork a project, you'll most likely want to know what's happening in the upstream project. If so, watch the repo. If the update chatter annoys you, unwatch it. If you notice changes that affect you, fetch and merge the upstream commits.

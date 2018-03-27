@@ -69,6 +69,11 @@ If you ever need quick access to your profile picture, you can access it at gith
 When you fork a project, you'll most likely want to know what's happening in the upstream project. If so, watch the repo. If the update chatter annoys you, unwatch it. If you notice changes that affect you, fetch and merge the upstream commits.
 
 
+## Comment your commits as you would have others comment theirs(26-03-2018)
+
+If you're the kind of developer who thinks (1) the code should speak for itself and (2) the in-line comments are way more important than the change logs, try cloning a repository you've never seen before and identifying the recent commit that may have caused the latest issue posted without reading all the code. As you can see, accurate commit logs are double-plus good. 
+
+
 ## Get changes on GitHub back to your computer(27-03-2018)
 
 In order to get the most recent changes that you or others have merged on GitHub, use the `git pull origin master` command (when working on the master branch).

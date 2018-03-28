@@ -80,3 +80,8 @@ In order to get the most recent changes that you or others have merged on GitHub
 
 This shows you all the files that have changed and how they've changed.
 Now we can use the `git log` command to see all new commits.
+
+
+## Explore Github(28-03-2018)
+
+Many interesting open source projects have repositories on GitHub. Explore GitHub provides a browsing interface to find some of them, but mostly it's easier to type a few letters of the project's name in the search box to find its repos. For example, type `jq` or `ang` to find two of the major open source JavaScript frameworks.

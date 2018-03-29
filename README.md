@@ -95,12 +95,12 @@ You can invite users to become collaborators to your personal repository.
 2. On GitHub, navigate to the main page of the repository.
 3. Under your repository name, click  Settings. 
  <img src ="https://help.github.com/assets/images/help/repository/repo-actions-settings.png">
- 4. In the left sidebar, click Collaborators.
+4. In the left sidebar, click Collaborators.
  <img src ="https://help.github.com/assets/images/help/repository/user-account-repo-settings-collaborators.png">
- 5. Under "Collaborators", start typing the collaborator's username.
- 6. Select the collaborator's username from the drop-down menu.
+5. Under "Collaborators", start typing the collaborator's username.
+6. Select the collaborator's username from the drop-down menu.
  <img src = "https://help.github.com/assets/images/help/repository/repo-settings-collab-autofill.png">
- 7. Click **_Add Collaborator_**.
+7. Click "Add Collaborator"
  <img src = "https://help.github.com/assets/images/help/repository/repo-settings-collab-add.png">
- 8. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
+8. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
 

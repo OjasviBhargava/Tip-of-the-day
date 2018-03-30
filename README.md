@@ -104,3 +104,45 @@ You can invite users to become collaborators to your personal repository.
  <img src = "https://help.github.com/assets/images/help/repository/repo-settings-collab-add.png">
 8. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
 
+
+## Creating a Team(30-03-2018)
+
+You can create independent or nested teams to manage repository permissions and mentions for groups of people.
+
+**STEPS :-**
+
+1) In the top right corner of GitHub, click your profile photo, then click **Your profile**.
+
+<img src = "https://help.github.com/assets/images/help/profile/top_right_avatar.png">
+
+2) On the left side of your profile page, under "Organizations", click the icon for your organization.
+
+<img src = "https://help.github.com/assets/images/help/profile/profile_orgs_box.png" height = 400 width = 300>
+
+3) Under your organization name, click **Teams**
+
+<img src = "https://help.github.com/assets/images/help/organizations/organization-teams-tab.png">
+
+4) On the right side of the Teams tab, click **New team**
+
+<img src = "https://help.github.com/assets/images/help/teams/new-team-button.png">
+
+5) Under "Create new team", type the name for your new team.
+
+<img src = "https://help.github.com/assets/images/help/teams/org-new-team-name.png">
+
+6) Optionally, in the "Description" field, type a description of the team.
+
+<img src = "https://help.github.com/assets/images/help/teams/org-team-description.png">
+
+7) Optionally, if you're creating a child team, use the drop-down menu to choose a parent team for your new team.
+
+<img src = "https://help.github.com/assets/images/help/teams/choose-parent-team.png">
+
+8) Decide whether the team will be visible or secret.
+
+<img src = https://help.github.com/assets/images/help/teams/new-team-visibility.png>
+
+9) Click **Create team**.
+
+10) Optionally, give the team access to organization repositories.

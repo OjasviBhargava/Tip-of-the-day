@@ -151,3 +151,7 @@ You can create independent or nested teams to manage repository permissions and 
 ## GitHub CheatSheet(31-03-2018)
 
 When nothing seems to work out, go head to the git Cheatsheet :sunglasses: It contains all commands, in brief, from the very basics, to all complex stuff. When cheat sheet's at hand, then nothing to rant :sunglasses::sunglasses: ~i rhymed it intentionally~ . The link here https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
+
+##List all branches and their upstreams, as well as last commit on branch
+
+git branch -vv
